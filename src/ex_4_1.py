@@ -20,4 +20,4 @@ def num_shutdowns(logfile):
 
 # >>>> The code below will call your function and print the results
 if __name__ == "__main__":
-    print(f'{num_shutdowns(FILENAME)=
+    print(f'{num_shutdowns(FILENAME)=}')
